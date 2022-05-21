@@ -1,4 +1,4 @@
-All programs should be saved to the archive! If saved to the RAM, they will be erased if you decide to clear the RAM and the calculator will quickly run out of RAM, forcing you to clear it, and ultimately deleting the things you installed on the RAM.
+All programs should be saved to the archive! If saved to the RAM, they will be erased if you decide to clear the RAM and the calculator will quickly run out of RAM, forcing you to clear it, and ultimately deleting the things you installed on the RAM. **And don't install the readme to it**.
 
 # Installing the Jailbreak
 Install `arTIfiCE.8xv` so you can run all of these. Once installed, open Cabri Jr. to arTIfiCE SHELL and you can run these programs
