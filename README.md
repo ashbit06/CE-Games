@@ -4,7 +4,7 @@ All programs should be saved to the archive! If saved to the RAM, they will be e
 1. Install `arTIfiCE.8xv` so you can run all of these. Once installed, open Cabri Jr. to arTIfiCE SHELL and you can run these programs
 2. Install `clibs.8xg` so all your games have access to the buttons for controls
 
-# File Requirements
+# File Requirements for Certain Programs
 ## OIRAM (Mario Knock-off) AppVars
 If you are installing `OIRAM.8xp`, dont forget to install the `OiramPK`, `OiramS`, and `OiramT.8xv` files or else it will say something like "appVars missing."
 
