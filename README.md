@@ -33,7 +33,7 @@ If you are installing Wordle, you will need these 3 files:
 You can now go to the \[apps] menu and open Cesuim through there!
 
 ## Python
-The only way I know to install it is by installing `TI84CEPythonBundle-5.7.0.17.b84`, which Python comes with it.
+The only way I know to install it is by installing `TI84CEPythonBundle-5.7.0.17.b84`, which includes the Python shell and editor. *Only works on TI-84 Plus CE Python models*
 
 # NOTICE
 Because I don't have my personal TI-84 Plus CE Python near me, I can't guarantee the process of installing the jailbreak and others. If you are having trouble installing something with the steps I gave you, [file an issue here](https://github.com/ashbit06/CE-Games/issues/new/choose) and I will try to correct my mistakes.
