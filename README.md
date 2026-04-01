@@ -2,7 +2,7 @@ All programs should be saved to the archive! If saved to the RAM, they will be e
 
 # [Installing the Jailbreak](https://yvantt.github.io/arTIfiCE/)
 1. Install `arTIfiCE.8xv` so you can run all of these. Once installed, open Cabri Jr. to arTIfiCE SHELL and you can run these programs
-2. Install `clibs.8xg` so all your games have access to the buttons for controls
+2. Install `clibs.8xg` so all your games have access to the buttons for controls. Make sure this is up to date!
 
 # File Requirements for Certain Programs
 ## OIRAM (Mario Knock-off) AppVars
@@ -34,6 +34,3 @@ You can now go to the \[apps] menu and open Cesuim through there!
 
 ## Python
 The only way I know to install it is by installing `TI84CEPythonBundle-5.7.0.17.b84`, which includes the Python shell and editor. *Only works on TI-84 Plus CE Python models*
-
-# NOTICE
-Because I don't have my personal TI-84 Plus CE Python near me, I can't guarantee the process of installing the jailbreak and others. If you are having trouble installing something with the steps I gave you, [file an issue here](https://github.com/ashbit06/CE-Games/issues/new/choose) and I will try to correct my mistakes.
